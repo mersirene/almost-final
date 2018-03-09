@@ -1,0 +1,8 @@
+body {
+    max-width: 1000px;
+    margin: auto;
+    background: linear-gradient(to bottom, #ffffff 0%, #339966 100%);
+}
+iframe {
+    height: 300px;
+}

@@ -102,3 +102,13 @@ footer {
     padding: 15px;
     text-align: center;
 }
+
+h3 {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 28px;
+}
+
+.form-group {
+    font-family: 'Open Sans Condensed', sans-serif;
+    font-size: 24px;
+}
